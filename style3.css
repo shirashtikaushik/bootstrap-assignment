@@ -1,0 +1,22 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.hero-unit {
+    background-image: url('https://img.freepik.com/free-vector/restaurant-mural-wallpaper_52683-47493.jpg');
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.main-section {
+    padding: 50px 0;
+}
+
+.footer {
+    background-color: black;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
